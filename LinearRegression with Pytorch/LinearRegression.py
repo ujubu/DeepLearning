@@ -1,4 +1,6 @@
-#Linear Regresion with Pytorch DeepLearning
+#Linear Regresion with Pytorch
+
+# Importing Libraries
 import numpy as np
 import torch
 
